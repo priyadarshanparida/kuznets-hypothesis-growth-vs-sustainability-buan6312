@@ -1,0 +1,124 @@
+Lecture 1
+The nature of Econometrics and Economic Data
+What Is Econometrics?
+Steps in Empirical Economic Analysis
+The Structure of Economic Data
+Cross-Sectional Data
+Time Series Data
+Pooled Cross Sections
+Panel Data
+Causality and Ceteris Paribus
+
+Lecture 2
+The Simple Regression Model
+Definition of the Simple Regression Model
+Deriving the Ordinary Least Squares Estimates
+Properties of OLS on Any Sample of Data
+Units of Measurement and Functional Form
+The Effects of Changing Units of Measurement on OLS Statistics
+Incorporating Nonlinearities in Simple Regression
+Expected Values and Variances of the OLS Estimators
+Unbiasedness of OLS
+Variances of the OLS Estimators
+Estimating the Error Variance
+Regression on a Binary Explanatory Variable
+
+Lecure 3
+Multiple Regression Analysis: Estimation
+Motivation for Multiple Regression
+Mechanics and Interpretation of Ordinary Least Squares
+The Expected Value of the OLS Estimators
+Omitted Variable Bias
+The Variance of the OLS Estimators
+Multicollinearity
+Variances in Mis-specified Models
+Estimating σ2: Standard Errors of the OLS Estimators
+Efficiency of OLS: The Gauss-Markov Theorem
+
+Lecture 4
+Multiple Regression Analysis: Inference
+Sampling Distributions of the OLS Estimators
+Testing Hypotheses about a Single Population Parameter: The t Test
+Testing against One-Sided Alternatives
+Two-Sided Alternatives
+Computing p-Values for t Tests
+Confidence Intervals
+Testing Hypotheses about a Single Linear Combination of the Parameters
+Testing Multiple Linear Restrictions: The F Test
+Testing Exclusion Restrictions
+Relationship between F and t Statistics
+
+Lecture 5
+Multiple Regression Analysis: Further Issues
+Heteroskedasticity
+Consequences of Heteroskedasticity for OLS
+Heteroskedasticity-Robust Inference after OLS Estimation
+Testing for Heteroskedasticity
+Effects of Data Scaling on OLS Statistics
+More on Functional Form
+More on Using Logarithmic Functional Forms
+Models with Quadratics
+Models with Interaction Terms
+
+Lecture 6
+Multiple Regression Analysis with Qualitative Information
+Describing Qualitative Information
+A Single Dummy Independent Variable
+Interpreting Coefficients on Dummy Explanatory Variables When the Dependent Variable Is log(y)
+Using Dummy Variables for Multiple Categories
+Incorporating Ordinal Information by Using Dummy Variables
+Interactions Involving Dummy Variables
+Interactions among Dummy Variables
+Allowing for Different Slopes
+A Binary Dependent Variable: The Linear Probability Model
+Interpreting Regression Results with Discrete Dependent
+
+Lecture 7
+Basic Regression Analysis with Time Series Data
+The Nature of Time Series Data
+Examples of Time Series Regression Models
+Static Models
+Finite Distributed Lag Models
+Finite Sample Properties of OLS under Classical Assumptions
+Unbiasedness of OLS
+The Variances of the OLS Estimators and the Gauss-Markov Theorem
+Inference under the Classical Linear Model Assumptions
+Functional Form and Dummy Variables
+Trends and Seasonality
+Characterizing Trending Time Series
+Using Trending Variables in Regression Analysis
+Seasonality
+
+Lecture 8
+Further Issues in Using OLS with Time Series Data
+Stationary and Weakly Dependent Time Series
+Stationary and Nonstationary Time Series
+Weakly Dependent Time Series
+Asymptotic Properties of OLS
+Using Highly Persistent Time Series in Regression Analysis
+Highly Persistent Time Series
+Transformations on Highly Persistent Time Series
+Deciding Whether a Time Series Is I(1)
+
+Lecture 9
+Pooling Cross Sections across Time: Simple Panel Data Methods
+Pooling Independent Cross Sections across Time
+Policy Analysis with Pooled Cross Sections
+Difference-in-Differences Estimation
+Two-Period Panel Data Analysis
+Fixed Effects Model
+Policy Analysis with Two-Period Panel Data
+Differencing with More than Two Time Periods
+
+Lecture 10
+Instrumental Variables Estimation and Two Stage Least Squares
+Motivation: Omitted Variables in a Simple Regression Model
+Statistical Inference with the IV Estimator
+Properties of IV with a Poor Instrumental Variable
+Computing R-Squared after IV Estimation
+IV Estimation of the Multiple Regression Model
+Two Stage Least Squares
+A Single Endogenous Explanatory Variable
+Detecting Weak Instruments
+Testing for Endogeneity
+Applying 2SLS to Pooled Cross Sections and Panel Data

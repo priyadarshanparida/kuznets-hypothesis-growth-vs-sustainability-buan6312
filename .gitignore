@@ -1,0 +1,28 @@
+# Python / macOS / editor artifacts
+__pycache__/
+*.py[cod]
+*.so
+.env
+.env.*
+*.sqlite3
+*.log
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Python testing / packaging
+.pytest_cache/
+.coverage
+pip-wheel-metadata/
+dist/
+build/
+
+# Ignore local virtual envs
+venv/
+env/
+.venv/

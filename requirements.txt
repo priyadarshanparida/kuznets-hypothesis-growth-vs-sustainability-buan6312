@@ -1,0 +1,33 @@
+cd "/Users/priyadarshanparida/Library/CloudStorage/OneDrive-TheUniversityofTexasatDallas/F'25/BUAN 6312.001 - Applied Econometrics and Time Series Analysis - F25/kuznets-hypothesis-growth-vs-sustainability-buan6312"
+
+cat > .gitignore <<'EOF'
+__pycache__/
+*.py[cod]
+*.so
+.env
+.env.*
+*.sqlite3
+*.log
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.pytest_cache/
+.coverage
+pip-wheel-metadata/
+dist/
+build/
+venv/
+env/
+.venv/
+EOF
+
+cat > requirements.txt <<'EOF'
+pandas
+numpy
+statsmodels
+linearmodels
+scipy
+jupyter
+ipykernel
+EOF
